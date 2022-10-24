@@ -5,5 +5,5 @@ It's take around <b>5 seconds</b> to generate the result for a single ad page, e
 
 # Quick Demo
 
-A 55 seconds video about how the game works.
+55 seconds video about how the game works. <br>
 https://www.youtube.com/watch?v=5DrH0UZEFy
