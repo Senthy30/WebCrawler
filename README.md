@@ -1,1 +1,9 @@
 # WebCrawler
+
+<b>Flask</b>, <b>RoboBrowser</b> and <b>BeautifulSoup</b> are required to be able to run the program. <br>
+It's take around <b>5 seconds</b> to generate the result for a single ad page, every page has around 45 ads. <br>
+
+# Quick Demo
+
+A 55 seconds video about how the game works.
+https://www.youtube.com/watch?v=5DrH0UZEFy
